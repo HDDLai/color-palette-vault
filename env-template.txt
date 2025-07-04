@@ -1,0 +1,9 @@
+FIREBASE_API_KEY=AIzaSyDIcN6nxLKS-q18lbsukYBK8BsvlF-qoFA
+FIREBASE_AUTH_DOMAIN=huddle-ai-development.firebaseapp.com
+FIREBASE_PROJECT_ID=huddle-ai-development
+FIREBASE_STORAGE_BUCKET=huddle-ai-development.firebasestorage.app
+FIREBASE_MESSAGING_SENDER_ID=120918032801
+FIREBASE_APP_ID=1:120918032801:web:cb4b6355fd5b7a7745cbe0
+FIREBASE_MEASUREMENT_ID=G-7LS4MSL3TM
+FIREBASE_ADMIN_PRIVATE_KEY_PATH=.secure/huddle-ai-development-firebase-adminsdk-fbsvc-82c660babf.json
+GEMINI_API_KEY=AIzaSyDQspDT6Y6ZYoS5WjDyf-W7VyRGwRE3L8s
