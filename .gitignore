@@ -46,3 +46,6 @@ firestore-debug.log
 .secure/
 .secure/*
 .secure/huddle-ai-development-firebase-adminsdk-fbsvc-82c660babf.json
+/workspace/
+/workspace/*
+env-template.txt
